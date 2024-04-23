@@ -1,0 +1,123 @@
+INFO 2024-04-20 09:19:40,698 daemon Exiting due to SIGINT
+INFO 2024-04-20 09:40:14,265 daemon Exiting due to SIGINT
+INFO 2024-04-20 09:44:31,229 daemon Exiting due to SIGINT
+INFO 2024-04-20 12:22:47,443 judge_handler Judge connected from: ('127.0.0.1', 50774)
+INFO 2024-04-20 12:22:47,457 judge_handler Judge authenticated: ('127.0.0.1', 50774) (JudgeMeru)
+INFO 2024-04-20 12:38:20,551 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-20 13:14:54,075 judge_list Specified judge JudgeMeru is available
+INFO 2024-04-20 13:14:54,075 judge_list Dispatched submission 1 to: JudgeMeru
+INFO 2024-04-20 13:14:54,081 judge_handler Submission acknowledged: 1
+INFO 2024-04-20 13:14:54,387 judge_handler JudgeMeru: Submission generated compiler messages: 1
+INFO 2024-04-20 13:14:54,391 judge_handler JudgeMeru: Grading has begun on: 1
+INFO 2024-04-20 13:14:54,447 judge_handler JudgeMeru: 1 test case(s) completed on: 1
+INFO 2024-04-20 13:14:54,454 judge_handler JudgeMeru: Grading has ended on: 1
+INFO 2024-04-20 13:14:54,454 judge_list Judge available after grading 1: JudgeMeru
+INFO 2024-04-21 08:05:17,554 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 08:16:47,772 judge_handler Judge disconnected from: ('127.0.0.1', 50774) with name JudgeMeru
+INFO 2024-04-21 08:18:14,251 judge_handler Judge connected from: ('127.0.0.1', 38452)
+INFO 2024-04-21 08:18:14,254 judge_handler Judge authenticated: ('127.0.0.1', 38452) (JudgeMeru)
+INFO 2024-04-21 08:19:28,297 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 08:19:34,566 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 08:19:34,578 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 08:19:34,637 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 08:19:43,484 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 08:19:47,812 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 08:19:47,821 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 08:19:47,882 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 08:19:52,456 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 08:19:52,480 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 08:19:52,538 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 08:21:29,937 daemon Exiting due to SIGINT
+INFO 2024-04-21 08:21:43,959 judge_handler Judge connected from: ('127.0.0.1', 38636)
+INFO 2024-04-21 08:21:43,964 judge_handler Judge authenticated: ('127.0.0.1', 38636) (JudgeMeru)
+INFO 2024-04-21 08:26:13,455 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 08:26:13,537 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 08:26:14,728 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 08:26:14,731 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 08:26:21,525 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 08:26:21,538 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 08:26:21,597 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 08:30:20,464 judge_handler Judge disconnected from: ('127.0.0.1', 38636) with name JudgeMeru
+INFO 2024-04-21 08:30:54,430 judge_handler Judge connected from: ('127.0.0.1', 39750)
+INFO 2024-04-21 08:30:54,433 judge_handler Judge authenticated: ('127.0.0.1', 39750) (JudgeMeru)
+INFO 2024-04-21 14:28:48,934 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 14:29:35,108 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 14:29:38,201 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-21 14:29:38,210 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 07:43:17,214 daemon Exiting due to SIGINT
+INFO 2024-04-22 07:43:31,243 judge_handler Judge connected from: ('127.0.0.1', 52714)
+INFO 2024-04-22 07:43:31,248 judge_handler Judge authenticated: ('127.0.0.1', 52714) (JudgeMeru)
+INFO 2024-04-22 08:51:54,689 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 08:51:54,693 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 08:51:54,705 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 08:51:54,726 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 08:51:54,729 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 08:51:56,048 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 08:53:02,241 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 08:53:02,301 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 08:53:02,311 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 08:53:37,647 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 09:10:14,510 judge_list Free judges: 1
+INFO 2024-04-22 09:10:14,510 judge_list Dispatched submission 1 to: JudgeMeru
+INFO 2024-04-22 09:10:14,516 judge_handler Submission acknowledged: 1
+INFO 2024-04-22 09:10:14,546 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 09:10:14,551 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 09:10:14,987 judge_handler JudgeMeru: Submission generated compiler messages: 1
+INFO 2024-04-22 09:10:14,991 judge_handler JudgeMeru: Grading has begun on: 1
+INFO 2024-04-22 09:10:15,148 judge_handler JudgeMeru: 1 test case(s) completed on: 1
+INFO 2024-04-22 09:10:15,398 judge_handler JudgeMeru: 2 test case(s) completed on: 1
+INFO 2024-04-22 09:10:15,649 judge_handler JudgeMeru: 1 test case(s) completed on: 1
+INFO 2024-04-22 09:10:15,899 judge_handler JudgeMeru: 1 test case(s) completed on: 1
+INFO 2024-04-22 09:10:16,400 judge_handler JudgeMeru: 1 test case(s) completed on: 1
+INFO 2024-04-22 09:10:16,652 judge_handler JudgeMeru: 1 test case(s) completed on: 1
+INFO 2024-04-22 09:10:17,155 judge_handler JudgeMeru: 1 test case(s) completed on: 1
+INFO 2024-04-22 09:10:17,657 judge_handler JudgeMeru: 1 test case(s) completed on: 1
+INFO 2024-04-22 09:10:18,334 judge_handler JudgeMeru: 1 test case(s) completed on: 1
+INFO 2024-04-22 09:10:18,347 judge_handler JudgeMeru: Grading has ended on: 1
+INFO 2024-04-22 09:10:18,348 judge_list Judge available after grading 1: JudgeMeru
+INFO 2024-04-22 10:17:30,241 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 11:16:26,264 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 11:16:26,268 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 11:16:26,310 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 11:16:27,733 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 11:16:27,737 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 11:16:35,814 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 11:16:35,864 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 11:17:12,810 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 11:17:12,865 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 11:17:12,904 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 11:49:11,165 judge_list Free judges: 1
+INFO 2024-04-22 11:49:11,165 judge_list Dispatched submission 2 to: JudgeMeru
+INFO 2024-04-22 11:49:11,174 judge_handler Submission acknowledged: 2
+INFO 2024-04-22 11:49:11,183 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 11:49:11,188 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 11:49:14,727 judge_handler JudgeMeru: Submission generated compiler messages: 2
+INFO 2024-04-22 11:49:14,732 judge_handler JudgeMeru: Grading has begun on: 2
+INFO 2024-04-22 11:49:14,890 judge_handler JudgeMeru: 10 test case(s) completed on: 2
+INFO 2024-04-22 11:49:14,897 judge_handler JudgeMeru: Grading has ended on: 2
+INFO 2024-04-22 11:49:14,897 judge_list Judge available after grading 2: JudgeMeru
+INFO 2024-04-22 11:51:19,650 judge_list Free judges: 1
+INFO 2024-04-22 11:51:19,651 judge_list Dispatched submission 3 to: JudgeMeru
+INFO 2024-04-22 11:51:19,659 judge_handler Submission acknowledged: 3
+INFO 2024-04-22 11:51:19,670 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 11:51:19,680 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 11:51:21,334 judge_handler JudgeMeru: Submission generated compiler messages: 3
+INFO 2024-04-22 11:51:21,341 judge_handler JudgeMeru: Grading has begun on: 3
+INFO 2024-04-22 11:51:21,472 judge_handler JudgeMeru: 10 test case(s) completed on: 3
+INFO 2024-04-22 11:51:21,480 judge_handler JudgeMeru: Grading has ended on: 3
+INFO 2024-04-22 11:51:21,481 judge_list Judge available after grading 3: JudgeMeru
+INFO 2024-04-22 11:52:08,758 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 11:52:12,779 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 11:52:12,813 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 11:52:12,882 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 11:52:26,554 judge_list Free judges: 1
+INFO 2024-04-22 11:52:26,554 judge_list Dispatched submission 4 to: JudgeMeru
+INFO 2024-04-22 11:52:26,564 judge_handler Submission acknowledged: 4
+INFO 2024-04-22 11:52:26,577 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 11:52:26,582 judge_handler JudgeMeru: Updated problem list
+INFO 2024-04-22 11:52:29,111 judge_handler JudgeMeru: Submission generated compiler messages: 4
+INFO 2024-04-22 11:52:29,120 judge_handler JudgeMeru: Grading has begun on: 4
+INFO 2024-04-22 11:52:29,138 judge_handler JudgeMeru: 1 test case(s) completed on: 4
+INFO 2024-04-22 11:52:29,249 judge_handler JudgeMeru: 9 test case(s) completed on: 4
+INFO 2024-04-22 11:52:29,255 judge_handler JudgeMeru: Grading has ended on: 4
+INFO 2024-04-22 11:52:29,255 judge_list Judge available after grading 4: JudgeMeru

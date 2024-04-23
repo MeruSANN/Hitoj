@@ -1,0 +1,123 @@
+.admin a, .admin {
+  color: #f8f8f8 !important;
+  font-weight: bold !important;
+}
+
+.deleted-user, .deleted-user a {
+  color: #999;
+  font-weight: normal;
+  text-decoration: line-through #f8f8f8;
+}
+
+svg.rate-box {
+  width: 1.2em;
+}
+svg.rate-box circle {
+  fill: none;
+  stroke-width: 2px;
+}
+svg.rate-box.rate-none {
+  visibility: hidden;
+}
+svg.rate-box.rate-primary0 circle {
+  stroke: #0f0f0f;
+}
+svg.rate-box.rate-primary0 path {
+  fill: #0f0f0f;
+}
+svg.rate-box.rate-newbie circle {
+  stroke: #aaa;
+}
+svg.rate-box.rate-newbie path {
+  fill: #aaa;
+}
+svg.rate-box.rate-amateur circle {
+  stroke: #00a900;
+}
+svg.rate-box.rate-amateur path {
+  fill: #00a900;
+}
+svg.rate-box.rate-expert circle {
+  stroke: cornflowerblue;
+}
+svg.rate-box.rate-expert path {
+  fill: cornflowerblue;
+}
+svg.rate-box.rate-candidate-master circle {
+  stroke: mediumpurple;
+}
+svg.rate-box.rate-candidate-master path {
+  fill: mediumpurple;
+}
+svg.rate-box.rate-master circle {
+  stroke: #ffb100;
+}
+svg.rate-box.rate-master path {
+  fill: #ffb100;
+}
+svg.rate-box.rate-grandmaster circle, svg.rate-box.rate-target circle {
+  stroke: #e00;
+}
+svg.rate-box.rate-grandmaster path, svg.rate-box.rate-target path {
+  fill: #e00;
+}
+svg.rate-box.rate-target circle:last-child {
+  stroke: none;
+  fill: #e00;
+}
+
+.rating {
+  font-weight: bold;
+}
+.rating a {
+  display: inline-block;
+}
+
+.rate-none, .rate-none a {
+  color: #aaa;
+  font-weight: normal;
+}
+
+.rate-newbie, .rate-newbie a {
+  color: #aaa;
+}
+
+.rate-amateur, .rate-amateur a {
+  color: #00a900;
+}
+
+.rate-expert, .rate-expert a {
+  color: cornflowerblue;
+}
+
+.rate-candidate-master, .rate-candidate-master a {
+  color: mediumpurple;
+}
+
+.rate-master, .rate-master a {
+  color: #ffb100;
+}
+
+.rate-grandmaster, .rate-grandmaster a, .rate-target, .rate-target a {
+  color: #e00;
+}
+
+.rate-target a::first-letter {
+  color: #f55;
+}
+
+.rate-group {
+  white-space: nowrap;
+  display: inline-block;
+  color: black;
+}
+.rate-group .rating {
+  display: inline-block;
+  vertical-align: middle;
+}
+.rate-group .rate-box {
+  margin-right: 0.2em;
+  vertical-align: middle;
+}
+
+/*# sourceMappingURL=ranks.css.map */
