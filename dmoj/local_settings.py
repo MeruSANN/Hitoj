@@ -85,10 +85,11 @@ STATICFILES_FINDERS += ('compressor.finders.CompressorFinder',)
 # to use Gmail.
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_USE_TLS = True
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'merusanndesu@gmail.com'
-EMAIL_HOST_PASSWORD = 'xyfuck1018'
-EMAIL_PORT = 587
+EMAIL_HOST = 'smtp.qq.com'
+EMAIL_HOST_USER = '2529619239@qq.com'
+EMAIL_HOST_PASSWORD = 'kvfajdbghxsydjca'
+EMAIL_PORT = 25
+DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 
 # To use Mailgun, uncomment this block.
 # You will need to run `pip install django-mailgun` to get `MailgunBackend`.
@@ -139,7 +140,7 @@ STATIC_ROOT = '/tmp/static'
 SITE_NAME = 'HITOJ'
 SITE_LONG_NAME = 'Hit Academy Online Judge'
 SITE_ADMIN_EMAIL = '2529619239@qq.com'
-TERMS_OF_SERVICE_URL = '//122.51.92.160/tos/'  # Use a flatpage.
+TERMS_OF_SERVICE_URL = '//oj.hitacad.com/tos'  # Use a flatpage.
 
 ## Bridge controls.
 # The judge connection address and port; where the judges will connect to the site.
